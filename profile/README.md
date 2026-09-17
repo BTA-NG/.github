@@ -13,12 +13,12 @@ Advisory monitor for unsafe commands in a simulated industrial control system.
 Local-first, explainable — ICSC 2026 submission.
 
 ## The team
-| | Name | Focus |
-|---|---|---|
-| <img src="https://github.com/0x5h4q.png" width="48" /> | **Daniel Bolaji-Busola** [@0x5h4q](https://github.com/0x5h4q) | Security Engineer & Full-Stack Developer — pentesting, security automation (NIST/ISO 27001), SafeCo + Sh4q |
-| <img src="https://github.com/AJ-Legends.png" width="48" /> | **Alamu Joseph** [@AJ-Legends](https://github.com/AJ-Legends) | Security Engineer (App & Cloud) — web pentesting, AIPEN + SafeCo |
-| | *Member 3 — TBD* | *slot ready — will add LinkedIn + role when you send it* |
-| | *Member 4 — TBD* | *slot ready* |
+| | Name | Focus | LinkedIn |
+|---|---|---|---|
+| <img src="https://github.com/0x5h4q.png" width="48" /> | **Daniel Bolaji-Busola** [@0x5h4q](https://github.com/0x5h4q) | Security Engineer & Full-Stack Developer — pentesting, security automation (NIST/ISO 27001), SafeCo + Sh4q | *TBD* |
+| <img src="https://github.com/AJ-Legends.png" width="48" /> | **Alamu Joseph** [@AJ-Legends](https://github.com/AJ-Legends) | Security Engineer (App & Cloud) — web pentesting, AIPEN + SafeCo | *TBD* |
+| | *Member 3 — TBD* | *slot ready* | *TBD* |
+| | *Member 4 — TBD* | *slot ready* | *TBD* |
 
 ---
 *We're not a company (yet?) — just friends trying to do something that makes a difference.*
